@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Save Gaming</string>
+    <string-array name="plataformas">
+        <item>PLAYSTATION</item>
+        <item>PC</item>
+        <item>XBOX</item>
+        <item>NINTENDO</item>
+        <item>OTRO</item>
+    </string-array>
+
+    <string-array name="filtroplataformas">
+        <item>TODO</item>
+        <item>PLAYSTATION</item>
+        <item>PC</item>
+        <item>XBOX</item>
+        <item>NINTENDO</item>
+        <item>OTRO</item>
+    </string-array>
+    <string-array name="filtronotas">
+        <item>TODO</item>
+        <item>MENOS DE 5</item>
+        <item>ENTRE 5 y 8</item>
+        <item>MAS DE 8</item>
+    </string-array>
+    <string name="submit">Enviar</string>
+</resources>
